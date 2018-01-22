@@ -1,0 +1,14 @@
+/usr/local/lib/cmake/misc/miscConfig.cmake
+/usr/local/include/misc/api.h
+/usr/local/include/misc/preamble_detector.h
+/usr/local/lib/libgnuradio-misc.so
+/usr/local/lib/python2.7/dist-packages/misc/_misc_swig.so
+/usr/local/lib/python2.7/dist-packages/misc/misc_swig.py
+/usr/local/lib/python2.7/dist-packages/misc/misc_swig.pyc
+/usr/local/lib/python2.7/dist-packages/misc/misc_swig.pyo
+/usr/local/include/misc/misc/swig/misc_swig.i
+/usr/local/include/misc/misc/swig/misc_swig_doc.i
+/usr/local/lib/python2.7/dist-packages/misc/__init__.py
+/usr/local/lib/python2.7/dist-packages/misc/__init__.pyc
+/usr/local/lib/python2.7/dist-packages/misc/__init__.pyo
+/usr/local/share/gnuradio/grc/blocks/misc_preamble_detector.xml

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/misc/api.h
+gnuradio/attributes.h
+-
+
+../include/misc/preamble_detector.h
+misc/api.h
+-
+gnuradio/block.h
+-
+
+/home/raphael/gr-misc/lib/preamble_detector_impl.cc
+config.h
+/home/raphael/gr-misc/lib/config.h
+gnuradio/io_signature.h
+-
+preamble_detector_impl.h
+/home/raphael/gr-misc/lib/preamble_detector_impl.h
+
+/home/raphael/gr-misc/lib/preamble_detector_impl.h
+misc/preamble_detector.h
+-
+
